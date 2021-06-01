@@ -3,5 +3,5 @@ certifi==2018.11.29
 html5lib==1.0.1
 lxml==4.2.5
 requests==2.21.0
-urllib3==1.24.1
+urllib3==1.26.5
 webencodings==0.5.1
